@@ -1,0 +1,19 @@
+p {
+  color: green;
+  border: 1px solid black;
+}
+
+h2{
+  color: red;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+body{
+  font-size: 20px; 
+  font-family: "Open Sans", sans-serif;
+  background-color: #ECC4DF;
+}
